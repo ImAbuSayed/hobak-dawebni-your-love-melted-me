@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hobak Dawebni – Your Love Melted Me
+
+This log tracks the cryptographic history and versioning for the song **Hobak Dawebni – Your Love Melted Me** (hobak-dawebni-your-love-melted-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:39:47.619030 | `v1` | `9ce1c71d2ba03729cec7dac7bdad6c1f0fe2961e99a0279bb9abc3a0dbf8c662` | `d7f5541331baa64cb7d9b15b6f19e03a7f62bd1e794bc2a9b44c19b659f39395` | `2026-05-09_hobak-dawebni-your-love-melted-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
